@@ -15,4 +15,5 @@ Usando HTML Y CSS programarás y darás estilos al front de Platzi Video, una ap
 
 ![](https://static.platzi.com/media/landing-projects/Proyecto-frontend-developer.gif)
 
-##Tomar el curso para realizar este proyecto en https://platzi.com/cursos/frontend-developer/
+
+### Tomar el curso para realizar este proyecto en https://platzi.com/cursos/frontend-developer/
